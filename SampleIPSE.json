@@ -1,0 +1,54 @@
+{
+  "DEFAULT VOLUME": {
+    "name": "Default Volume",
+    "users": {
+      "ADMIN": {
+        "name": "Administrator",
+        "password": "",
+        "authName": "Admin",
+        "authPassword": "pass"
+      },
+      "A1": {
+        "name": "user1",
+        "password": "pass",
+        "authName": "a1",
+        "authPassword": "1"
+      },
+      "A2": {
+        "name": "user2",
+        "password": "pass",
+        "authName": "a2",
+        "authPassword": "2"
+      }
+    }
+  },
+  "VOLUME1": {
+    "name": "Volume1",
+    "users": {
+      "ADMIN": {
+        "name": "Administrator",
+        "password": "",
+        "authName": "Admin",
+        "authPassword": "pass"
+      },
+      "B1": {
+        "name": "user1",
+        "password": "pass",
+        "authName": "b1",
+        "authPassword": "1"
+      },
+      "B2": {
+        "name": "user2",
+        "password": "pass",
+        "authName": "b2",
+        "authPassword": "2"
+      },
+      "B3": {
+        "name": "user3",
+        "password": "pass",
+        "authName": "b3",
+        "authPassword": "3"
+      }
+    }
+  }
+}
